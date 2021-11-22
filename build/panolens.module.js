@@ -7586,7 +7586,7 @@ function Viewer ( options ) {
     this.effect = this.CardboardEffect;
 
     // Add default hidden reticle
-    this.addReticle();
+    // this.addReticle();
 
     // Lock horizontal view
     if ( this.options.horizontalView ) {
